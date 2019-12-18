@@ -1,0 +1,80 @@
+
+.thumbnail img { 
+  max-height: 200px;
+  padding: 20px;
+}
+.carouselExampleControls {
+  max-height: 150px ;
+}
+.carousel {
+  margin:auto;
+  width: 600px;
+  height:500px;
+}
+
+#menu{
+  display: block;
+  width: 300px;
+  height: 400px;
+  padding: 25px; 
+  padding-top: 75px;
+  margin-right: 150px;
+}
+
+
+.menuTitle{
+  position: relative;
+    z-index: 2;
+    margin: 0px;
+    padding: 10px 18px 12px;
+    color: #fff;
+    background-color: #333333;
+    border-top: 4px solid cadetblue;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.Title{
+  position: relative;
+    z-index: 2;
+    margin: 0px;
+    padding: 10px 18px 12px;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 2px;
+    border: 1px solid black;
+    text-align: center;
+}
+.Title a{
+  color : black;
+}
+
+#row2 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.price {
+  font-weight: bold;
+  color: red;
+}
+
+.titleBlock {
+  text-transform: uppercase;
+  color: red;
+  font-weight: bold;
+}
+
+.row {
+  text-align: center;
+}
+
+#bottomRow {
+  line-height: 50px;
+}
+
